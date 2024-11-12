@@ -1,0 +1,32 @@
+D:\josefsProjekter\sejers v2\sejers v2\bin\Debug\net7.0\appsettings.Development.json
+D:\josefsProjekter\sejers v2\sejers v2\bin\Debug\net7.0\appsettings.json
+D:\josefsProjekter\sejers v2\sejers v2\bin\Debug\net7.0\sejers v2.staticwebassets.runtime.json
+D:\josefsProjekter\sejers v2\sejers v2\bin\Debug\net7.0\sejers v2.exe
+D:\josefsProjekter\sejers v2\sejers v2\bin\Debug\net7.0\sejers v2.deps.json
+D:\josefsProjekter\sejers v2\sejers v2\bin\Debug\net7.0\sejers v2.runtimeconfig.json
+D:\josefsProjekter\sejers v2\sejers v2\bin\Debug\net7.0\sejers v2.dll
+D:\josefsProjekter\sejers v2\sejers v2\bin\Debug\net7.0\sejers v2.pdb
+D:\josefsProjekter\sejers v2\sejers v2\obj\Debug\net7.0\sejers v2.GeneratedMSBuildEditorConfig.editorconfig
+D:\josefsProjekter\sejers v2\sejers v2\obj\Debug\net7.0\sejers v2.AssemblyInfoInputs.cache
+D:\josefsProjekter\sejers v2\sejers v2\obj\Debug\net7.0\sejers v2.AssemblyInfo.cs
+D:\josefsProjekter\sejers v2\sejers v2\obj\Debug\net7.0\sejers v2.csproj.CoreCompileInputs.cache
+D:\josefsProjekter\sejers v2\sejers v2\obj\Debug\net7.0\sejers v2.MvcApplicationPartsAssemblyInfo.cache
+D:\josefsProjekter\sejers v2\sejers v2\obj\Debug\net7.0\sejers v2.RazorAssemblyInfo.cache
+D:\josefsProjekter\sejers v2\sejers v2\obj\Debug\net7.0\sejers v2.RazorAssemblyInfo.cs
+D:\josefsProjekter\sejers v2\sejers v2\obj\Debug\net7.0\sejers v2.sourcelink.json
+D:\josefsProjekter\sejers v2\sejers v2\obj\Debug\net7.0\staticwebassets.build.json
+D:\josefsProjekter\sejers v2\sejers v2\obj\Debug\net7.0\staticwebassets.development.json
+D:\josefsProjekter\sejers v2\sejers v2\obj\Debug\net7.0\staticwebassets\msbuild.sejers v2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\josefsProjekter\sejers v2\sejers v2\obj\Debug\net7.0\staticwebassets\msbuild.build.sejers v2.props
+D:\josefsProjekter\sejers v2\sejers v2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.sejers v2.props
+D:\josefsProjekter\sejers v2\sejers v2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.sejers v2.props
+D:\josefsProjekter\sejers v2\sejers v2\obj\Debug\net7.0\staticwebassets.pack.json
+D:\josefsProjekter\sejers v2\sejers v2\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\josefsProjekter\sejers v2\sejers v2\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\josefsProjekter\sejers v2\sejers v2\obj\Debug\net7.0\scopedcss\bundle\sejers v2.styles.css
+D:\josefsProjekter\sejers v2\sejers v2\obj\Debug\net7.0\scopedcss\projectbundle\sejers v2.bundle.scp.css
+D:\josefsProjekter\sejers v2\sejers v2\obj\Debug\net7.0\sejers v2.dll
+D:\josefsProjekter\sejers v2\sejers v2\obj\Debug\net7.0\refint\sejers v2.dll
+D:\josefsProjekter\sejers v2\sejers v2\obj\Debug\net7.0\sejers v2.pdb
+D:\josefsProjekter\sejers v2\sejers v2\obj\Debug\net7.0\sejers v2.genruntimeconfig.cache
+D:\josefsProjekter\sejers v2\sejers v2\obj\Debug\net7.0\ref\sejers v2.dll
